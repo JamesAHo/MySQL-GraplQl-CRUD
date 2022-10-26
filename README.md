@@ -19,7 +19,7 @@ The purpose of this application is to test the ability and performace of GraphQL
 
 
 ## Installation
- Connect to mysql by setting your local sever. Then,npm install all the dependencies and run "node index.js" to start
+ Connect to SQL by setting your local sever. Then, npm install all the dependencies and run "node index.js" to start
  
 
 ## Usage 
